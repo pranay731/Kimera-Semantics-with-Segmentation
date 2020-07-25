@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>kimera_semantics_with_segmentation</name>
+  <version>1.0.0</version>
+  <description>Kimera Semantics with Segmentation on ADE20K classes</description>
+
+  <author email="pranay731@live.com">Pranay Suman</author>
+  <maintainer email="pranay731@live.com">Pranay Suman</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+  
+  <exec_depend>semantic_segmentation_ros</exec_depend>
+  <exec_depend>kimera_semantics</exec_depend>
+  <exec_depend>kimera_semantics_ros</exec_depend>
+
+</package>
