@@ -1,0 +1,6 @@
+[submodule "ros-semantic-segmentation-pytorch"]
+	path = ros-semantic-segmentation-pytorch
+	url = https://github.com/pranay731/ros-semantic-segmentation-pytorch.git
+[submodule "Kimera-Semantics-on-ADE20K"]
+	path = Kimera-Semantics-on-ADE20K
+	url = https://github.com/pranay731/Kimera-Semantics-on-ADE20K.git
